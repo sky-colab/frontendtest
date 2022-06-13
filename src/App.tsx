@@ -12,6 +12,10 @@ function App() {
         max-width: 1024px;
         margin: 0 auto;
         padding-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;          
       `}
     >
       <h1
